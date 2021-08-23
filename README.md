@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Nojmiza
+- 👀 I’m interested in Web Design
+- 🌱 I’m currently learning Full Stack(Html , CSS , JS and PHP)
+- 📫 How to reach me my email(morethanfriend2001@gmail.com)
